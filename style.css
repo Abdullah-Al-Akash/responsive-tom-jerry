@@ -10,6 +10,17 @@ body {
 h1{
         font-size: 50px;
 }
+.btn{
+        background-color: orangered;
+        border: 1px solid orange;
+        font-weight: bold;
+        font-size: 20px;
+        cursor: pointer;
+        padding: 8px 30px;
+        border-radius: 10px;
+        text-decoration: none;
+        color: greenyellow
+}
 .top-banner{
         background-image: url(images/top-banner.png);
         background-repeat: no-repeat;
@@ -20,6 +31,7 @@ h1{
 .one p{
         color: darkgray;
         padding-top: 4%;
+        padding-bottom: 4%;
 }
 .wrap{
         width: 90%;
@@ -33,6 +45,9 @@ h1{
 .one{
         padding-top: 5%;
         padding-right: 5%;
+}
+.two{
+        text-align: center;
 }
 .two img{
         width: 70%;
