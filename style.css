@@ -68,3 +68,10 @@ h1{
 .four p{
         padding-right: 10%;
 }
+
+.shadow{
+        box-shadow: 10px 10px 40px black;
+        margin: 5% 3%;
+        border-radius: 5px;
+        padding: 2%;
+}
