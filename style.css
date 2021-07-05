@@ -19,7 +19,7 @@ h1{
         padding: 8px 30px;
         border-radius: 10px;
         text-decoration: none;
-        color: greenyellow
+        color: greenyellow;
 }
 .top-banner{
         background-image: url(images/top-banner.png);
@@ -74,4 +74,55 @@ h1{
         margin: 5% 3%;
         border-radius: 5px;
         padding: 2%;
+}
+.experience{
+        padding-top: 10%;
+        
+}
+.experience h1{
+        text-align: center;
+        height: 90px;
+        width: 300px;
+        background-image: linear-gradient(salmon, greenyellow);
+        border-radius: 5px;
+        margin: 0 auto;
+}
+.form-input{
+        width: 80%;
+        height: 70%;
+        border: 2px solid black;
+        border-radius:5px;
+        font-size: 20px;
+}
+.form-input1{
+        width: 90%;
+        height: 50px;
+        border: 2px solid black;
+        border-radius:5px;
+        font-size: 20px;
+}
+.form-input2{
+        width: 90%;
+        height: 150px;
+        border: 2px solid black;
+        border-radius:5px;
+        font-size: 20px;
+}
+.inpput-div{
+        margin: 1%;
+}
+.wrap1{
+        width: 90%;
+        margin: 0 auto;
+}
+.form-center{
+        margin-left: 3%;
+}
+.submit-btn{
+        margin: 1%;
+        margin-top: 2%;
+}
+footer{
+        text-align: center;
+        padding: 5%;
 }
